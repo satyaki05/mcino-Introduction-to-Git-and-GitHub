@@ -1,6 +1,7 @@
 $ git checkout main
 Already on 'main'
-Your branch is ahead of 'origin/main' by 1 commit.
+M	merge_branches
+Your branch is ahead of 'origin/main' by 3 commits.
   (use "git push" to publish your local commits)
 $ git merge bug-fix-typo
 Already up to date.
