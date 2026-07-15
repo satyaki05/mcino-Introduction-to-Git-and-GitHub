@@ -1,7 +1,9 @@
 $ git checkout main
 Already on 'main'
-M	merge_branches
-Your branch is ahead of 'origin/main' by 3 commits.
-  (use "git push" to publish your local commits)
 $ git merge bug-fix-typo
-Already up to date.
+commit 28410b2b6dd5b8329ac9eb9ed66b45586320d218
+Merge: 425b3a2 5ec4755
+Author: satyaki05 <desatyaki05@gmail.com>
+Date:   Wed Jul 15 18:57:56 2026 +0530
+
+    Merge bug-fix-typo into main, resolve conflict
